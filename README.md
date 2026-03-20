@@ -9,7 +9,7 @@
 
 > Projet de Master 2 — International School (IS) / VNU Hanoi  
 > Option : Systèmes Intelligents et Multimédia  
-> Auteur : **RIDORE Wenchel & KIMBANGI MENAKUNTIMA Rabbi** 
+> Auteur : **RIDORE Wenchel & KIMBANGI MENAKUNTIMA Rabbi**    
 > Encadrant : **Dr. Ho Tuong Vinh**  
 
 ---
