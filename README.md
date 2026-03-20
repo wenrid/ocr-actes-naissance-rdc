@@ -7,9 +7,9 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-A100%2080GB-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-> Projet de thèse — Institut Francophone International (IFI) / VNU Hanoi  
+> Projet de Master 2 — International School (IS) / VNU Hanoi  
 > Option : Systèmes Intelligents et Multimédia  
-> Auteur : **KIMBANGI MENAKUNTIMА Rabbi** & **RIDORE Wenchel**  
+> Auteur : **RIDORE Wenchel** & **KIMBANGI MENAKUNTIMА Rabbi**
 > Encadrant : **Dr. Ho Tuong Vinh**  
 
 ---
