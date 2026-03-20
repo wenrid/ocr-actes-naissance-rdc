@@ -68,16 +68,13 @@ ocr-actes-naissance-rdc/
 ├── notebooks/
 │   └── pipeline_complet.ipynb      ← Fine-tuning + Évaluation
 ├── graphiques/
-│   ├── 1_tp_fp_fn.png
-│   ├── 2_precision_recall_f1.png
-│   ├── 3_types_erreurs.png
-│   ├── 4_matrice_confusion.png
-│   ├── 5_camembert_erreurs.png
-│   ├── 6_precision_rappel.png
-│   └── 7_cer_par_certificat.png
-└── rapport/
-    ├── rapport_evaluation.tex
-    └── rapport_evaluation.pdf
+    ├── 1_tp_fp_fn.png
+    ├── 2_precision_recall_f1.png
+    ├── 3_types_erreurs.png
+    ├── 4_matrice_confusion.png
+    ├── 5_camembert_erreurs.png
+    ├── 6_precision_rappel.png
+    └── 7_cer_par_certificat.png
 ```
 
 ---
