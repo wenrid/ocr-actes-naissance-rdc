@@ -134,6 +134,6 @@ Le notebook `pipeline_complet.ipynb` contient 3 parties :
 
 ## 👥 Auteurs
 
-- **Rabbi KIMBANGI MENAKUNTIMА**
+- **Rabbi KIMBANGI MENAKUNTIMА** — https://github.com/rabbikimbangi
 - **Wenchel RIDORE** — [github.com/wenrid](https://github.com/wenrid)
 
