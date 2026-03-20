@@ -102,7 +102,7 @@ streamlit run app_rdc.py
 
 ## 📦 Modèle Fine-tuné
 
-Le modèle `modele_merged_complet` (~2 GB) est hébergé sur Google Drive
+Le modèle `modele_merged_complet` (~2 Go) est hébergé sur Google Drive
 en raison de sa taille. Contactez-nous pour y accéder.
 
 Le modèle de base est disponible sur HuggingFace :
