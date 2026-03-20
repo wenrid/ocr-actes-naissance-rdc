@@ -102,11 +102,9 @@ streamlit run app_rdc.py
 
 ## 📦 Modèle Fine-tuné
 
-Le modèle `modele_merged_complet` (~2 Go) est hébergé sur Google Drive
-en raison de sa taille. Contactez-nous pour y accéder.
+Le modèle `modele_merged_complet` (~2 Go) est hébergé sur Google Drive en raison de sa taille. Contactez-nous pour y accéder.
 
-Le modèle de base est disponible sur HuggingFace :
-[lightonai/LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)
+Le modèle de base est disponible sur HuggingFace : [lightonai/LightOnOCR-2-1B](https://huggingface.co/lightonai/LightOnOCR-2-1B)
 
 ---
 
