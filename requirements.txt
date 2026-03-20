@@ -1,0 +1,28 @@
+# ── Deep Learning ──
+torch>=2.0.0
+torchvision
+
+# ── OCR / NLP ──
+git+https://github.com/huggingface/transformers.git
+huggingface_hub>=0.34.0
+tokenizers>=0.22.0
+safetensors>=0.4.3
+accelerate
+peft
+
+# ── Dataset ──
+datasets
+
+# ── Métriques ──
+jiwer
+regex
+
+# ── Application Streamlit ──
+streamlit
+pillow
+python-docx
+
+# ── Visualisation ──
+matplotlib
+seaborn
+numpy

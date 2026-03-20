@@ -1,0 +1,39 @@
+# ── Modèle (trop lourd pour GitHub) ──
+modele_merged_complet/
+modele_finetuned/
+
+# ── Dataset (données sensibles) ──
+hf_dataset/
+certificats_png/
+
+# ── Base de données locale ──
+actes.db
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+env/
+
+# ── LaTeX ──
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Jupyter ──
+.ipynb_checkpoints/
